@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "ipm test",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "88c6ada20bfadabb90f78afefe8b01",
+    "system_secret": "88C6ADA20BFAB8C4D3A8DEC297A201"
+}
